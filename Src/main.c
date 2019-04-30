@@ -164,6 +164,7 @@ int main(void)
 		  ByteDataWrite(pattern);
 		  HAL_Delay(300);
 	  }
+
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
